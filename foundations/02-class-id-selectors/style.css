@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(234, 158, 158);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.odd.cool {
+    font-size: 24px;
+}
+#ye{
+    color: blue;
+    font-size: 36px;
+}
+#ye2{
+    background-color: rgb(149, 254, 153);
+    font-weight: bold;
+    font-size: 24px;
+}
